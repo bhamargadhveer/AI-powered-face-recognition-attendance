@@ -1,0 +1,10 @@
+export const classes = [
+  { id: "c_01", name: "BSCS-6A", teacher: "Dr. Bilal Ahmed", subject: "Artificial Intelligence", students: 42, room: "CS Lab 3", schedule: "Mon, Wed, Fri • 9:00 AM", color: "from-blue-500 to-indigo-500", department: "Computer Science", semester: 6 },
+  { id: "c_02", name: "BSSE-4A", teacher: "Ms. Ayesha Khan", subject: "Data Structures & Algorithms", students: 38, room: "Block B, Room 201", schedule: "Tue, Thu • 10:00 AM", color: "from-emerald-500 to-teal-500", department: "Software Engineering", semester: 4 },
+  { id: "c_03", name: "BSAI-5A", teacher: "Dr. Usman Tariq", subject: "Machine Learning", students: 34, room: "AI Research Lab", schedule: "Mon, Wed • 11:30 AM", color: "from-amber-500 to-orange-500", department: "AI & Data Science", semester: 5 },
+  { id: "c_04", name: "BSCYS-3A", teacher: "Mr. Hamza Iqbal", subject: "Network Security", students: 30, room: "Cyber Lab", schedule: "Daily • 1:00 PM", color: "from-rose-500 to-pink-500", department: "Cyber Security", semester: 3 },
+  { id: "c_05", name: "BSIT-7A", teacher: "Dr. Sana Malik", subject: "Database Management Systems", students: 36, room: "IT Lab 2", schedule: "Tue, Thu, Fri • 2:30 PM", color: "from-fuchsia-500 to-purple-500", department: "Information Technology", semester: 7 },
+  { id: "c_06", name: "BSCS-8A", teacher: "Dr. Fatima Zahra", subject: "Software Design & Architecture", students: 28, room: "Seminar Hall", schedule: "Mon, Thu • 3:30 PM", color: "from-sky-500 to-cyan-500", department: "Computer Science", semester: 8 },
+  { id: "c_07", name: "BSSE-6B", teacher: "Mr. Ali Raza", subject: "Web Engineering", students: 40, room: "Block C, Room 305", schedule: "Wed, Fri • 10:30 AM", color: "from-violet-500 to-purple-500", department: "Software Engineering", semester: 6 },
+  { id: "c_08", name: "BSAI-2A", teacher: "Ms. Zara Hussain", subject: "Operating Systems", students: 44, room: "Main Auditorium", schedule: "Mon, Tue, Thu • 8:00 AM", color: "from-lime-500 to-green-500", department: "AI & Data Science", semester: 2 },
+];
